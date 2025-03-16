@@ -87,7 +87,7 @@ body.boxed-wrapper,
 }
 
 .main-header__logo .dark-logo {
-  display: none;
+  display: block;
 }
 
 .main-header__logo .light-logo {

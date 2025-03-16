@@ -1927,7 +1927,7 @@
 
     .benefits-one-shape img,
     .main-header__top-right {
-        display: none;
+        display: block;
     }
 
     .main-header__logo {
